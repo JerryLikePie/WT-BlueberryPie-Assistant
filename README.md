@@ -1,4 +1,4 @@
-# War Thunder Blueberry Pie Air Assistant
+# War Thunder BlueberryPie Air Assistant
 ### This script is no longer being updated.
 Please note that the usage of automatic scripts is against the rules. As of Dec 2023, Gaijin added bot detection to their game. I will no longer be supporting this script nor updating features. Use at your own risk.
 
